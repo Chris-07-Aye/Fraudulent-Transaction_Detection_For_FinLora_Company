@@ -1,0 +1,12 @@
+mlflow
+dagshub
+scikit.learn
+matplotlib
+pandas
+numpy
+seaborn
+plotly
+xgboost
+fastapi
+uvicorn
+xgboost==2.1.4

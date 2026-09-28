@@ -3,8 +3,10 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+
+# env
 # C extensions
-*.so
+* .so
 
 # Distribution / packaging
 .Python
